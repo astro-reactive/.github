@@ -1,3 +1,5 @@
+> 📣 Please read an [**important announcement about the project**](https://github.com/orgs/astro-reactive/discussions/304)
+
 # Astro Reactive
 _astronomical experimentations on Astro components ✨_
 - [Website](https://astro-reactive.dev)
